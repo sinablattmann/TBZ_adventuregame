@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TBZ_Projekt_AdventureGame:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TBZ_Projekt_AdventureGame_jar</output-path>
+    <root id="archive" name="TBZ_Projekt_AdventureGame.jar">
+      <element id="module-output" name="TBZ_Projekt_AdventureGame" />
+    </root>
+  </artifact>
+</component>
